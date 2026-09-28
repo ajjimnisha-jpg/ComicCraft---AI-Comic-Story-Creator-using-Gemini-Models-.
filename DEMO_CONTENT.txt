@@ -1,0 +1,21 @@
+Sample Demo
+
+Story Idea:
+A college student discovers a friendly robot inside an old computer laboratory.
+
+Number of Panels:
+4
+
+Expected sections:
+TITLE
+CHARACTERS
+PANEL 1
+PANEL 2
+PANEL 3
+PANEL 4
+
+Each panel contains:
+Scene
+Characters
+Dialogue
+Narration

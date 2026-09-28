@@ -1,0 +1,31 @@
+COMICCRAFT SAMPLE OUTPUT
+
+TITLE: The Robot in Room 305
+
+CHARACTERS:
+Arun - A curious computer science student.
+Robo - A friendly experimental robot.
+
+PANEL 1:
+Scene: Arun enters an old computer laboratory.
+Characters: Arun
+Dialogue: Arun: Why is this computer still running?
+Narration: The laboratory is quiet late at night.
+
+PANEL 2:
+Scene: A hidden robot activates.
+Characters: Arun, Robo
+Dialogue: Robo: Hello, Arun!
+Narration: Arun is surprised to hear a voice.
+
+PANEL 3:
+Scene: Robo explains its secret mission.
+Characters: Arun, Robo
+Dialogue: Arun: How can I help you?
+Narration: The two begin working together.
+
+PANEL 4:
+Scene: Arun and Robo solve the problem.
+Characters: Arun, Robo
+Dialogue: Robo: We did it!
+Narration: A new friendship begins in the laboratory.

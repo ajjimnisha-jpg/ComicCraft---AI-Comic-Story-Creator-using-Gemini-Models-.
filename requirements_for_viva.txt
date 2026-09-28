@@ -1,0 +1,25 @@
+Viva Questions and Short Answers
+
+1. What is ComicCraft?
+ComicCraft is a Python AI application that generates comic stories from user prompts.
+
+2. Which AI model is used?
+A Gemini generative AI model is used.
+
+3. Which programming language is used?
+Python.
+
+4. What is Tkinter?
+Tkinter is Python's standard GUI library.
+
+5. What is an API?
+An API is an interface that allows software applications to communicate with another service.
+
+6. Why is prompt engineering used?
+A structured prompt helps the AI return the desired comic format.
+
+7. What are the main modules?
+Input, prompt generation, Gemini API, comic generation and output modules.
+
+8. What is a future enhancement?
+AI-generated comic images and PDF export can be added.

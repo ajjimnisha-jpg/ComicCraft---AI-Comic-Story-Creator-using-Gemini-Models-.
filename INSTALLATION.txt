@@ -1,0 +1,12 @@
+COMICCRAFT INSTALLATION
+
+1. Install Python.
+2. Open Command Prompt/Terminal in the project folder.
+3. Run:
+   pip install -r requirements.txt
+4. Add your Gemini API key.
+5. Run:
+   python src/comiccraft_gui.py
+
+For console:
+   python src/comiccraft_console.py
